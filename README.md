@@ -7,3 +7,4 @@ Projects
 1. [Healthcare Services Analytics Dashboard](./healthcare-dashboard/README.md)
 2. [E-commerce Sales Performance Dashboard](./ecommerce-dashboard/README.md)
 3. [HR Analytics Dashboard](./hr-dashboard/README.md)
+4. [Logistics Operations Dashboard](./Logistics_Operations_Dashboard/README.md)
